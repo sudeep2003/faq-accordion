@@ -18,7 +18,7 @@ body {
     background-color: var(--Light_pink);
     background-image: url("assets/images/background-pattern-desktop.svg");
     background-repeat: no-repeat;
-    background-position: 0 -64px;
+    background-position: top;
     background-size: 100%;
 }
 h1{
