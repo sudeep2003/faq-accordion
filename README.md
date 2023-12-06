@@ -26,7 +26,7 @@ For the Frontend Mentor FAQ accordion solution challenge, I created a FAQ accord
 ### Links
 
 - Solution URL: [https://github.com/sudeep2003/faq-accordion-main.git](https://github.com/sudeep2003/faq-accordion-main.git)
-- Live Site URL: [https://sudeep2003.github.io/faq-accordion-main/](https://sudeep2003.github.io/faq-accordion-main/)
+- Live Site URL: [https://sudeep2003.github.io/faq-accordion](https://sudeep2003.github.io/faq-accordion)
 
 ### Built with
 
